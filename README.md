@@ -1,1 +1,1 @@
-# southeast-tech
+# southeasttech
